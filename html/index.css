@@ -1,0 +1,56 @@
+.h1{
+  background-color: rgb(39, 34, 34);
+ 
+   width: 600px;
+  height: 600px; 
+  border: 20px;
+  
+}
+#t1{
+  width: 390px;
+  height: 200px;
+  background-color: rgb(241, 13, 188);
+  float: left;
+  border-bottom:solid 10px black ;
+  border-right: solid 10px black ;
+  text-align: center;
+ font-size: 200px;
+ 
+}
+#t2{
+  width: 200px;
+  height: 90px;
+  background-color: rgb(95, 202, 232);
+  float: left;
+  border-bottom:10px solid black;
+  text-align: center;
+  font-size: 80px;
+  
+}
+#t3{
+  width: 200px;
+  height: 100px;
+  background-color: rgb(95, 202, 232);
+  float: left;
+  border-bottom:10px solid black;
+  text-align: center;
+ font-size: 100px;
+}
+#t4{
+  width: 600px;
+  height: 180px;
+  background-color: rgb(234, 110, 234);
+  float: left;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 70px;
+}
+.t9{
+  width: 110px;
+  height: 190px;
+  background-color: rgb(231, 151, 167);
+ float: left;
+ border: solid 5px black;
+ text-align: center;
+  font-size: 40px;
+}
